@@ -1,7 +1,7 @@
 # DocuVault Core 🏛️
 ### Enterprise Multi-Tenant Document Intelligence & RAG API
 
-> 🚧 **Notice:** **This project is currently under active development. Core implementation, benchmarks, and production codebase will be pushed by the end of October 2026.**
+> 🚧 **Notice:** **This project is currently under active development. Core implementation, benchmarks, and production codebase will be pushed by the end of November 2026.**
 
 ---
 
